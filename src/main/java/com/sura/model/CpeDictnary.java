@@ -7,7 +7,7 @@ import java.util.List;
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
-@Entity(name ="cpe_dictnary")
+@Entity(name ="cpe_dictnary")			//BASIC POJO CLASS
 public class CpeDictnary {
 	@Id
 	private String id;

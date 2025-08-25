@@ -13,3 +13,6 @@ public interface CpeRepo extends JpaRepository<CpeDictnary, String> {
 	List<CpeDictnary> searchByFields(String cpe_title, String cpe_22_uri, String cpe_23_uri, String deprecation_date);
 
 }
+
+
+//THE MYSQL REPO NEED TO CREATE A SPECIAL QUERRY FOR SEARCH FEAUTURE 

@@ -7,5 +7,5 @@ import org.springframework.data.web.config.EnableSpringDataWebSupport.PageSerial
 @Configuration
 @EnableSpringDataWebSupport(pageSerializationMode = PageSerializationMode.VIA_DTO)
 public class WebConfig {
-    // You can define other beans here if needed
+    //suggested by spring boot for better pagination else it looked very messy 
 }

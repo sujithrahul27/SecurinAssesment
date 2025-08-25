@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.sura.model.CpeDictnary;
 import com.sura.service.CpeDbService;
-
+										//The Main Rest Controller
 @RestController
 @RequestMapping("/api/cpes")
 public class ApiController {
@@ -19,12 +19,12 @@ public class ApiController {
 	CpeDbService cpeDbService;
 	
 	
-	@GetMapping
+	@GetMapping //for calling paginated request its is mandatory to be passed or will thorw bad request
 	public Page<CpeDictnary> getPaginatedCpes(@RequestParam int page,@RequestParam int limit){
 		
 	return cpeDbService.getPaginatedCpes(page,limit);
 	}
-	@GetMapping("/search")
+	@GetMapping("/search")		//serach result the only reason ro migrate to mysql 
 	public List<CpeDictnary> getSearched(
 			@RequestParam(required = false) String cpe_title,
 			@RequestParam(required = false) String cpe_22_uri,
