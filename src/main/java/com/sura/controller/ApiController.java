@@ -1,5 +1,7 @@
 package com.sura.controller;
 
+import java.util.List;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -21,5 +23,16 @@ public class ApiController {
 	public Page<CpeDictnary> getPaginatedCpes(@RequestParam int page,@RequestParam int limit){
 		
 	return cpeDbService.getPaginatedCpes(page,limit);
+	}
+	@GetMapping("/search")
+	public List<CpeDictnary> getSearched(
+			@RequestParam(required = false) String cpe_title,
+			@RequestParam(required = false) String cpe_22_uri,
+			@RequestParam(required = false) String cpe_23_uri,
+			@RequestParam(required = false) String deprecation_date
+			){
+		return cpeDbService.searchCpes(cpe_title,cpe_22_uri,cpe_23_uri,deprecation_date);
+	}
+	
 }
-}
+
