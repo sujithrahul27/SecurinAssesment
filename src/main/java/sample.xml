@@ -13,7 +13,6 @@
       <CPE_23_Deprecated>2024-06-30</CPE_23_Deprecated>
     </Deprecation>
   </CPE_Entry>
-
   <CPE_Entry>
     <Title>Apache Tomcat 9</Title>
     <CPE_22_URI>cpe:/a:apache:tomcat:9.0.0</CPE_22_URI>
@@ -27,7 +26,6 @@
       <CPE_23_Deprecated>2023-05-10</CPE_23_Deprecated>
     </Deprecation>
   </CPE_Entry>
-
   <CPE_Entry>
     <Title>Ubuntu Linux 20.04</Title>
     <CPE_22_URI>cpe:/o:canonical:ubuntu_linux:20.04</CPE_22_URI>
@@ -41,7 +39,6 @@
       <CPE_23_Deprecated>2025-04-01</CPE_23_Deprecated>
     </Deprecation>
   </CPE_Entry>
-
   <CPE_Entry>
     <Title>Oracle Java SE 8</Title>
     <CPE_22_URI>cpe:/a:oracle:java:8</CPE_22_URI>
@@ -55,7 +52,6 @@
       <CPE_23_Deprecated>2024-01-15</CPE_23_Deprecated>
     </Deprecation>
   </CPE_Entry>
-
   <CPE_Entry>
     <Title>Mozilla Firefox 102 ESR</Title>
     <CPE_22_URI>cpe:/a:mozilla:firefox:102.0</CPE_22_URI>
@@ -67,6 +63,1098 @@
     <Deprecation>
       <CPE_22_Deprecated>2024-07-01</CPE_22_Deprecated>
       <CPE_23_Deprecated>2024-07-01</CPE_23_Deprecated>
+    </Deprecation>
+  </CPE_Entry>
+  <CPE_Entry>
+    <Title>Google Chrome 108</Title>
+    <CPE_22_URI>cpe:/a:google:chrome:108.0</CPE_22_URI>
+    <CPE_23_URI>cpe:2.3:a:google:chrome:108.0:*:*:*:*:*:*:*</CPE_23_URI>
+    <Reference_Links>
+      <Link>https://www.google.com/chrome/</Link>
+      <Link>https://nvd.nist.gov/products/chrome</Link>
+    </Reference_Links>
+    <Deprecation>
+      <CPE_22_Deprecated>2024-11-20</CPE_22_Deprecated>
+      <CPE_23_Deprecated>2025-01-10</CPE_23_Deprecated>
+    </Deprecation>
+  </CPE_Entry>
+  <CPE_Entry>
+    <Title>Apple macOS Monterey 12.0</Title>
+    <CPE_22_URI>cpe:/o:apple:macos:12.0</CPE_22_URI>
+    <CPE_23_URI>cpe:2.3:o:apple:macos:12.0:*:*:*:*:*:*:*</CPE_23_URI>
+    <Reference_Links>
+      <Link>https://support.apple.com/macos</Link>
+      <Link>https://nvd.nist.gov/products/macos</Link>
+    </Reference_Links>
+    <Deprecation>
+      <CPE_22_Deprecated>2024-09-01</CPE_22_Deprecated>
+      <CPE_23_Deprecated>2024-09-01</CPE_23_Deprecated>
+    </Deprecation>
+  </CPE_Entry>
+  <CPE_Entry>
+    <Title>Red Hat Enterprise Linux 8</Title>
+    <CPE_22_URI>cpe:/o:redhat:enterprise_linux:8.0</CPE_22_URI>
+    <CPE_23_URI>cpe:2.3:o:redhat:enterprise_linux:8.0:*:*:*:*:*:*:*</CPE_23_URI>
+    <Reference_Links>
+      <Link>https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux</Link>
+      <Link>https://access.redhat.com/security/cve-browser</Link>
+    </Reference_Links>
+    <Deprecation>
+      <CPE_22_Deprecated>2029-05-31</CPE_22_Deprecated>
+      <CPE_23_Deprecated>2029-05-31</CPE_23_Deprecated>
+    </Deprecation>
+  </CPE_Entry>
+  <CPE_Entry>
+    <Title>Adobe Photoshop 2023</Title>
+    <CPE_22_URI>cpe:/a:adobe:photoshop:24.0</CPE_22_URI>
+    <CPE_23_URI>cpe:2.3:a:adobe:photoshop:24.0:*:*:*:*:*:*:*</CPE_23_URI>
+    <Reference_Links>
+      <Link>https://www.adobe.com/products/photoshop.html</Link>
+      <Link>https://helpx.adobe.com/security.html</Link>
+    </Reference_Links>
+    <Deprecation>
+      <CPE_22_Deprecated>2025-10-01</CPE_22_Deprecated>
+      <CPE_23_Deprecated>2025-10-01</CPE_23_Deprecated>
+    </Deprecation>
+  </CPE_Entry>
+  <CPE_Entry>
+    <Title>Python 3.9</Title>
+    <CPE_22_URI>cpe:/a:python:python:3.9.0</CPE_22_URI>
+    <CPE_23_URI>cpe:2.3:a:python:python:3.9.0:*:*:*:*:*:*:*</CPE_23_URI>
+    <Reference_Links>
+      <Link>https://www.python.org/</Link>
+      <Link>https://nvd.nist.gov/products/python</Link>
+    </Reference_Links>
+    <Deprecation>
+      <CPE_22_Deprecated>2025-10-05</CPE_22_Deprecated>
+      <CPE_23_Deprecated>2025-10-05</CPE_23_Deprecated>
+    </Deprecation>
+  </CPE_Entry>
+  <CPE_Entry>
+    <Title>Nginx 1.20</Title>
+    <CPE_22_URI>cpe:/a:nginx:nginx:1.20.0</CPE_22_URI>
+    <CPE_23_URI>cpe:2.3:a:nginx:nginx:1.20.0:*:*:*:*:*:*:*</CPE_23_URI>
+    <Reference_Links>
+      <Link>https://nginx.org/en/</Link>
+      <Link>https://nvd.nist.gov/products/nginx</Link>
+    </Reference_Links>
+    <Deprecation>
+      <CPE_22_Deprecated>2023-06-30</CPE_22_Deprecated>
+      <CPE_23_Deprecated>2024-01-01</CPE_23_Deprecated>
+    </Deprecation>
+  </CPE_Entry>
+  <CPE_Entry>
+    <Title>Microsoft Office 365</Title>
+    <CPE_22_URI>cpe:/a:microsoft:office_365</CPE_22_URI>
+    <CPE_23_URI>cpe:2.3:a:microsoft:office_365:-:*:*:*:*:*:*:*</CPE_23_URI>
+    <Reference_Links>
+      <Link>https://www.office.com/</Link>
+      <Link>https://msrc.microsoft.com/update-guide</Link>
+    </Reference_Links>
+    <Deprecation>
+      <CPE_22_Deprecated>2026-01-01</CPE_22_Deprecated>
+      <CPE_23_Deprecated>2026-01-01</CPE_23_Deprecated>
+    </Deprecation>
+  </CPE_Entry>
+  <CPE_Entry>
+    <Title>Debian Linux 11</Title>
+    <CPE_22_URI>cpe:/o:debian:debian_linux:11.0</CPE_22_URI>
+    <CPE_23_URI>cpe:2.3:o:debian:debian_linux:11.0:*:*:*:*:*:*:*</CPE_23_URI>
+    <Reference_Links>
+      <Link>https://www.debian.org/</Link>
+      <Link>https://security-tracker.debian.org/tracker/</Link>
+    </Reference_Links>
+    <Deprecation>
+      <CPE_22_Deprecated>2026-08-14</CPE_22_Deprecated>
+      <CPE_23_Deprecated>2026-08-14</CPE_23_Deprecated>
+    </Deprecation>
+  </CPE_Entry>
+  <CPE_Entry>
+    <Title>Cisco IOS 15.9</Title>
+    <CPE_22_URI>cpe:/o:cisco:ios:15.9</CPE_22_URI>
+    <CPE_23_URI>cpe:2.3:o:cisco:ios:15.9:*:*:*:*:*:*:*</CPE_23_URI>
+    <Reference_Links>
+      <Link>https://www.cisco.com/c/en/us/products/ios-nx-os-software/ios-software/index.html</Link>
+      <Link>https://nvd.nist.gov/products/cisco_ios</Link>
+    </Reference_Links>
+    <Deprecation>
+      <CPE_22_Deprecated>2025-08-31</CPE_22_Deprecated>
+      <CPE_23_Deprecated>2025-08-31</CPE_23_Deprecated>
+    </Deprecation>
+  </CPE_Entry>
+  <CPE_Entry>
+    <Title>VMware ESXi 7.0</Title>
+    <CPE_22_URI>cpe:/o:vmware:esxi:7.0</CPE_22_URI>
+    <CPE_23_URI>cpe:2.3:o:vmware:esxi:7.0:-:*:*:*:*:*:*</CPE_23_URI>
+    <Reference_Links>
+      <Link>https://www.vmware.com/products/esxi-and-esx.html</Link>
+      <Link>https://www.vmware.com/security/advisories.html</Link>
+    </Reference_Links>
+    <Deprecation>
+      <CPE_22_Deprecated>2027-04-02</CPE_22_Deprecated>
+      <CPE_23_Deprecated>2027-04-02</CPE_23_Deprecated>
+    </Deprecation>
+  </CPE_Entry>
+  <CPE_Entry>
+    <Title>OpenSSH 8.8</Title>
+    <CPE_22_URI>cpe:/a:openbsd:openssh:8.8</CPE_22_URI>
+    <CPE_23_URI>cpe:2.3:a:openbsd:openssh:8.8:-:*:*:*:*:*:*</CPE_23_URI>
+    <Reference_Links>
+      <Link>https://www.openssh.com/</Link>
+      <Link>https://nvd.nist.gov/products/openssh</Link>
+    </Reference_Links>
+    <Deprecation>
+      <CPE_22_Deprecated>2024-03-01</CPE_22_Deprecated>
+      <CPE_23_Deprecated>2024-05-15</CPE_23_Deprecated>
+    </Deprecation>
+  </CPE_Entry>
+  <CPE_Entry>
+    <Title>PostgreSQL 14</Title>
+    <CPE_22_URI>cpe:/a:postgresql:postgresql:14.0</CPE_22_URI>
+    <CPE_23_URI>cpe:2.3:a:postgresql:postgresql:14.0:*:*:*:*:*:*:*</CPE_23_URI>
+    <Reference_Links>
+      <Link>https://www.postgresql.org/</Link>
+      <Link>https://nvd.nist.gov/products/postgresql</Link>
+    </Reference_Links>
+    <Deprecation>
+      <CPE_22_Deprecated>2026-11-12</CPE_22_Deprecated>
+      <CPE_23_Deprecated>2026-11-12</CPE_23_Deprecated>
+    </Deprecation>
+  </CPE_Entry>
+  <CPE_Entry>
+    <Title>CentOS 7</Title>
+    <CPE_22_URI>cpe:/o:centos:centos:7</CPE_22_URI>
+    <CPE_23_URI>cpe:2.3:o:centos:centos:7:-:*:*:*:*:*:*</CPE_23_URI>
+    <Reference_Links>
+      <Link>https://www.centos.org/</Link>
+      <Link>https://nvd.nist.gov/products/centos</Link>
+    </Reference_Links>
+    <Deprecation>
+      <CPE_22_Deprecated>2024-06-30</CPE_22_Deprecated>
+      <CPE_23_Deprecated>2024-06-30</CPE_23_Deprecated>
+    </Deprecation>
+  </CPE_Entry>
+  <CPE_Entry>
+    <Title>Docker Engine 20.10</Title>
+    <CPE_22_URI>cpe:/a:docker:docker:20.10</CPE_22_URI>
+    <CPE_23_URI>cpe:2.3:a:docker:docker:20.10:*:*:*:*:*:*:*</CPE_23_URI>
+    <Reference_Links>
+      <Link>https://www.docker.com/</Link>
+      <Link>https://nvd.nist.gov/products/docker</Link>
+    </Reference_Links>
+    <Deprecation>
+      <CPE_22_Deprecated>2023-12-31</CPE_22_Deprecated>
+      <CPE_23_Deprecated>2023-12-31</CPE_23_Deprecated>
+    </Deprecation>
+  </CPE_Entry>
+  <CPE_Entry>
+    <Title>Wireshark 3.6</Title>
+    <CPE_22_URI>cpe:/a:wireshark:wireshark:3.6.0</CPE_22_URI>
+    <CPE_23_URI>cpe:2.3:a:wireshark:wireshark:3.6.0:*:*:*:*:*:*:*</CPE_23_URI>
+    <Reference_Links>
+      <Link>https://www.wireshark.org/</Link>
+      <Link>https://nvd.nist.gov/products/wireshark</Link>
+    </Reference_Links>
+    <Deprecation>
+      <CPE_22_Deprecated>2023-08-01</CPE_22_Deprecated>
+      <CPE_23_Deprecated>2023-11-01</CPE_23_Deprecated>
+    </Deprecation>
+  </CPE_Entry>
+  <CPE_Entry>
+    <Title>Microsoft Windows Server 2019</Title>
+    <CPE_22_URI>cpe:/o:microsoft:windows_server_2019</CPE_22_URI>
+    <CPE_23_URI>cpe:2.3:o:microsoft:windows_server_2019:-:*:*:*:*:*:*:*</CPE_23_URI>
+    <Reference_Links>
+      <Link>https://docs.microsoft.com/en-us/windows-server/</Link>
+      <Link>https://msrc.microsoft.com/update-guide</Link>
+    </Reference_Links>
+    <Deprecation>
+      <CPE_22_Deprecated>2029-01-09</CPE_22_Deprecated>
+      <CPE_23_Deprecated>2029-01-09</CPE_23_Deprecated>
+    </Deprecation>
+  </CPE_Entry>
+  <CPE_Entry>
+    <Title>Apple iOS 15</Title>
+    <CPE_22_URI>cpe:/o:apple:iphone_os:15.0</CPE_22_URI>
+    <CPE_23_URI>cpe:2.3:o:apple:iphone_os:15.0:*:*:*:*:*:*:*</CPE_23_URI>
+    <Reference_Links>
+      <Link>https://support.apple.com/ios</Link>
+      <Link>https://nvd.nist.gov/products/iphone_os</Link>
+    </Reference_Links>
+    <Deprecation>
+      <CPE_22_Deprecated>2023-09-12</CPE_22_Deprecated>
+      <CPE_23_Deprecated>2023-09-12</CPE_23_Deprecated>
+    </Deprecation>
+  </CPE_Entry>
+  <CPE_Entry>
+    <Title>Kubernetes 1.23</Title>
+    <CPE_22_URI>cpe:/a:kubernetes:kubernetes:1.23.0</CPE_22_URI>
+    <CPE_23_URI>cpe:2.3:a:kubernetes:kubernetes:1.23.0:*:*:*:*:*:*:*</CPE_23_URI>
+    <Reference_Links>
+      <Link>https://kubernetes.io/</Link>
+      <Link>https://nvd.nist.gov/products/kubernetes</Link>
+    </Reference_Links>
+    <Deprecation>
+      <CPE_22_Deprecated>2023-02-28</CPE_22_Deprecated>
+      <CPE_23_Deprecated>2023-02-28</CPE_23_Deprecated>
+    </Deprecation>
+  </CPE_Entry>
+  <CPE_Entry>
+    <Title>Jenkins 2.303</Title>
+    <CPE_22_URI>cpe:/a:jenkins:jenkins:2.303</CPE_22_URI>
+    <CPE_23_URI>cpe:2.3:a:jenkins:jenkins:2.303:*:*:*:*:*:*:*</CPE_23_URI>
+    <Reference_Links>
+      <Link>https://www.jenkins.io/</Link>
+      <Link>https://www.jenkins.io/security/advisories/</Link>
+    </Reference_Links>
+    <Deprecation>
+      <CPE_22_Deprecated>2024-06-15</CPE_22_Deprecated>
+      <CPE_23_Deprecated>2024-06-15</CPE_23_Deprecated>
+    </Deprecation>
+  </CPE_Entry>
+  <CPE_Entry>
+    <Title>Git 2.34</Title>
+    <CPE_22_URI>cpe:/a:git-scm:git:2.34.0</CPE_22_URI>
+    <CPE_23_URI>cpe:2.3:a:git-scm:git:2.34.0:*:*:*:*:*:*:*</CPE_23_URI>
+    <Reference_Links>
+      <Link>https://git-scm.com/</Link>
+      <Link>https://nvd.nist.gov/products/git</Link>
+    </Reference_Links>
+    <Deprecation>
+      <CPE_22_Deprecated>2023-11-20</CPE_22_Deprecated>
+      <CPE_23_Deprecated>2024-01-20</CPE_23_Deprecated>
+    </Deprecation>
+  </CPE_Entry>
+  <CPE_Entry>
+    <Title>Apache HTTP Server 2.4</Title>
+    <CPE_22_URI>cpe:/a:apache:http_server:2.4.52</CPE_22_URI>
+    <CPE_23_URI>cpe:2.3:a:apache:http_server:2.4.52:*:*:*:*:*:*:*</CPE_23_URI>
+    <Reference_Links>
+      <Link>https://httpd.apache.org/</Link>
+      <Link>https://nvd.nist.gov/products/http_server</Link>
+    </Reference_Links>
+    <Deprecation>
+      <CPE_22_Deprecated>2024-08-01</CPE_22_Deprecated>
+      <CPE_23_Deprecated>2024-10-01</CPE_23_Deprecated>
+    </Deprecation>
+  </CPE_Entry>
+  <CPE_Entry>
+    <Title>MySQL 8.0</Title>
+    <CPE_22_URI>cpe:/a:oracle:mysql:8.0.27</CPE_22_URI>
+    <CPE_23_URI>cpe:2.3:a:oracle:mysql:8.0.27:*:*:*:*:*:*:*</CPE_23_URI>
+    <Reference_Links>
+      <Link>https://www.mysql.com/</Link>
+      <Link>https://www.oracle.com/security-alerts/</Link>
+    </Reference_Links>
+    <Deprecation>
+      <CPE_22_Deprecated>2026-04-30</CPE_22_Deprecated>
+      <CPE_23_Deprecated>2026-04-30</CPE_23_Deprecated>
+    </Deprecation>
+  </CPE_Entry>
+  <CPE_Entry>
+    <Title>Node.js 16</Title>
+    <CPE_22_URI>cpe:/a:nodejs:node.js:16.13.0</CPE_22_URI>
+    <CPE_23_URI>cpe:2.3:a:nodejs:node.js:16.13.0:*:*:*:*:*:*:*</CPE_23_URI>
+    <Reference_Links>
+      <Link>https://nodejs.org/</Link>
+      <Link>https://nvd.nist.gov/products/node.js</Link>
+    </Reference_Links>
+    <Deprecation>
+      <CPE_22_Deprecated>2023-09-11</CPE_22_Deprecated>
+      <CPE_23_Deprecated>2023-09-11</CPE_23_Deprecated>
+    </Deprecation>
+  </CPE_Entry>
+  <CPE_Entry>
+    <Title>Ruby on Rails 6.1</Title>
+    <CPE_22_URI>cpe:/a:rubyonrails:rails:6.1.4</CPE_22_URI>
+    <CPE_23_URI>cpe:2.3:a:rubyonrails:rails:6.1.4:*:*:*:*:*:*:*</CPE_23_URI>
+    <Reference_Links>
+      <Link>https://rubyonrails.org/</Link>
+      <Link>https://nvd.nist.gov/products/rails</Link>
+    </Reference_Links>
+    <Deprecation>
+      <CPE_22_Deprecated>2023-06-01</CPE_22_Deprecated>
+      <CPE_23_Deprecated>2023-06-01</CPE_23_Deprecated>
+    </Deprecation>
+  </CPE_Entry>
+  <CPE_Entry>
+    <Title>PHP 7.4</Title>
+    <CPE_22_URI>cpe:/a:php:php:7.4.26</CPE_22_URI>
+    <CPE_23_URI>cpe:2.3:a:php:php:7.4.26:*:*:*:*:*:*:*</CPE_23_URI>
+    <Reference_Links>
+      <Link>https://www.php.net/</Link>
+      <Link>https://nvd.nist.gov/products/php</Link>
+    </Reference_Links>
+    <Deprecation>
+      <CPE_22_Deprecated>2022-11-28</CPE_22_Deprecated>
+      <CPE_23_Deprecated>2022-11-28</CPE_23_Deprecated>
+    </Deprecation>
+  </CPE_Entry>
+  <CPE_Entry>
+    <Title>WordPress 5.8</Title>
+    <CPE_22_URI>cpe:/a:wordpress:wordpress:5.8</CPE_22_URI>
+    <CPE_23_URI>cpe:2.3:a:wordpress:wordpress:5.8:*:*:*:*:*:*:*</CPE_23_URI>
+    <Reference_Links>
+      <Link>https://wordpress.org/</Link>
+      <Link>https://wordpress.org/news/category/security/</Link>
+    </Reference_Links>
+    <Deprecation>
+      <CPE_22_Deprecated>2023-05-16</CPE_22_Deprecated>
+      <CPE_23_Deprecated>2023-05-16</CPE_23_Deprecated>
+    </Deprecation>
+  </CPE_Entry>
+  <CPE_Entry>
+    <Title>Drupal 9.3</Title>
+    <CPE_22_URI>cpe:/a:drupal:drupal:9.3.0</CPE_22_URI>
+    <CPE_23_URI>cpe:2.3:a:drupal:drupal:9.3.0:*:*:*:*:*:*:*</CPE_23_URI>
+    <Reference_Links>
+      <Link>https://www.drupal.org/</Link>
+      <Link>https://www.drupal.org/security</Link>
+    </Reference_Links>
+    <Deprecation>
+      <CPE_22_Deprecated>2023-06-21</CPE_22_Deprecated>
+      <CPE_23_Deprecated>2023-06-21</CPE_23_Deprecated>
+    </Deprecation>
+  </CPE_Entry>
+  <CPE_Entry>
+    <Title>Joomla! 3.10</Title>
+    <CPE_22_URI>cpe:/a:joomla:joomla%21:3.10.4</CPE_22_URI>
+    <CPE_23_URI>cpe:2.3:a:joomla:joomla\\!:3.10.4:*:*:*:*:*:*:*</CPE_23_URI>
+    <Reference_Links>
+      <Link>https://www.joomla.org/</Link>
+      <Link>https://developer.joomla.org/security-centre.html</Link>
+    </Reference_Links>
+    <Deprecation>
+      <CPE_22_Deprecated>2023-08-17</CPE_22_Deprecated>
+      <CPE_23_Deprecated>2023-08-17</CPE_23_Deprecated>
+    </Deprecation>
+  </CPE_Entry>
+  <CPE_Entry>
+    <Title>Microsoft .NET Framework 4.8</Title>
+    <CPE_22_URI>cpe:/a:microsoft:.net_framework:4.8</CPE_22_URI>
+    <CPE_23_URI>cpe:2.3:a:microsoft:.net_framework:4.8:*:*:*:*:*:*:*</CPE_23_URI>
+    <Reference_Links>
+      <Link>https://dotnet.microsoft.com/</Link>
+      <Link>https://msrc.microsoft.com/update-guide</Link>
+    </Reference_Links>
+    <Deprecation>
+      <CPE_22_Deprecated>2027-01-12</CPE_22_Deprecated>
+      <CPE_23_Deprecated>2027-01-12</CPE_23_Deprecated>
+    </Deprecation>
+  </CPE_Entry>
+  <CPE_Entry>
+    <Title>VLC Media Player 3.0</Title>
+    <CPE_22_URI>cpe:/a:videolan:vlc_media_player:3.0.16</CPE_22_URI>
+    <CPE_23_URI>cpe:2.3:a:videolan:vlc_media_player:3.0.16:*:*:*:*:*:*:*</CPE_23_URI>
+    <Reference_Links>
+      <Link>https://www.videolan.org/vlc/</Link>
+      <Link>https://nvd.nist.gov/products/vlc_media_player</Link>
+    </Reference_Links>
+    <Deprecation>
+      <CPE_22_Deprecated>2024-02-14</CPE_22_Deprecated>
+      <CPE_23_Deprecated>2024-05-14</CPE_23_Deprecated>
+    </Deprecation>
+  </CPE_Entry>
+  <CPE_Entry>
+    <Title>GIMP 2.10</Title>
+    <CPE_22_URI>cpe:/a:gimp:gimp:2.10.28</CPE_22_URI>
+    <CPE_23_URI>cpe:2.3:a:gimp:gimp:2.10.28:*:*:*:*:*:*:*</CPE_23_URI>
+    <Reference_Links>
+      <Link>https://www.gimp.org/</Link>
+      <Link>https://nvd.nist.gov/products/gimp</Link>
+    </Reference_Links>
+    <Deprecation>
+      <CPE_22_Deprecated>2023-10-20</CPE_22_Deprecated>
+      <CPE_23_Deprecated>2024-01-20</CPE_23_Deprecated>
+    </Deprecation>
+  </CPE_Entry>
+  <CPE_Entry>
+    <Title>AngularJS 1.8</Title>
+    <CPE_22_URI>cpe:/a:angularjs:angular.js:1.8.2</CPE_22_URI>
+    <CPE_23_URI>cpe:2.3:a:angularjs:angular.js:1.8.2:*:*:*:*:*:*:*</CPE_23_URI>
+    <Reference_Links>
+      <Link>https://angularjs.org/</Link>
+      <Link>https://nvd.nist.gov/products/angular.js</Link>
+    </Reference_Links>
+    <Deprecation>
+      <CPE_22_Deprecated>2022-07-01</CPE_22_Deprecated>
+      <CPE_23_Deprecated>2022-07-01</CPE_23_Deprecated>
+    </Deprecation>
+  </CPE_Entry>
+  <CPE_Entry>
+    <Title>React 17</Title>
+    <CPE_22_URI>cpe:/a:facebook:react:17.0.2</CPE_22_URI>
+    <CPE_23_URI>cpe:2.3:a:facebook:react:17.0.2:*:*:*:*:*:*:*</CPE_23_URI>
+    <Reference_Links>
+      <Link>https://reactjs.org/</Link>
+      <Link>https://nvd.nist.gov/products/react</Link>
+    </Reference_Links>
+    <Deprecation>
+      <CPE_22_Deprecated>2024-03-22</CPE_22_Deprecated>
+      <CPE_23_Deprecated>2024-03-22</CPE_23_Deprecated>
+    </Deprecation>
+  </CPE_Entry>
+  <CPE_Entry>
+    <Title>jQuery 3.6</Title>
+    <CPE_22_URI>cpe:/a:jquery:jquery:3.6.0</CPE_22_URI>
+    <CPE_23_URI>cpe:2.3:a:jquery:jquery:3.6.0:*:*:*:*:*:*:*</CPE_23_URI>
+    <Reference_Links>
+      <Link>https://jquery.com/</Link>
+      <Link>https://nvd.nist.gov/products/jquery</Link>
+    </Reference_Links>
+    <Deprecation>
+      <CPE_22_Deprecated>2023-03-02</CPE_22_Deprecated>
+      <CPE_23_Deprecated>2023-05-02</CPE_23_Deprecated>
+    </Deprecation>
+  </CPE_Entry>
+  <CPE_Entry>
+    <Title>Bootstrap 4.6</Title>
+    <CPE_22_URI>cpe:/a:getbootstrap:bootstrap:4.6.1</CPE_22_URI>
+    <CPE_23_URI>cpe:2.3:a:getbootstrap:bootstrap:4.6.1:*:*:*:*:*:*:*</CPE_23_URI>
+    <Reference_Links>
+      <Link>https://getbootstrap.com/</Link>
+      <Link>https://nvd.nist.gov/products/bootstrap</Link>
+    </Reference_Links>
+    <Deprecation>
+      <CPE_22_Deprecated>2023-01-01</CPE_22_Deprecated>
+      <CPE_23_Deprecated>2023-01-01</CPE_23_Deprecated>
+    </Deprecation>
+  </CPE_Entry>
+  <CPE_Entry>
+    <Title>Spring Framework 5.3</Title>
+    <CPE_22_URI>cpe:/a:pivotal_software:spring_framework:5.3.13</CPE_22_URI>
+    <CPE_23_URI>cpe:2.3:a:pivotal_software:spring_framework:5.3.13:*:*:*:*:*:*:*</CPE_23_URI>
+    <Reference_Links>
+      <Link>https://spring.io/projects/spring-framework</Link>
+      <Link>https://tanzu.vmware.com/security</Link>
+    </Reference_Links>
+    <Deprecation>
+      <CPE_22_Deprecated>2024-12-31</CPE_22_Deprecated>
+      <CPE_23_Deprecated>2024-12-31</CPE_23_Deprecated>
+    </Deprecation>
+  </CPE_Entry>
+  <CPE_Entry>
+    <Title>Fedora 35</Title>
+    <CPE_22_URI>cpe:/o:fedoraproject:fedora:35</CPE_22_URI>
+    <CPE_23_URI>cpe:2.3:o:fedoraproject:fedora:35:*:*:*:*:*:*:*</CPE_23_URI>
+    <Reference_Links>
+      <Link>https://getfedora.org/</Link>
+      <Link>https://nvd.nist.gov/products/fedora</Link>
+    </Reference_Links>
+    <Deprecation>
+      <CPE_22_Deprecated>2022-12-13</CPE_22_Deprecated>
+      <CPE_23_Deprecated>2022-12-13</CPE_23_Deprecated>
+    </Deprecation>
+  </CPE_Entry>
+  <CPE_Entry>
+    <Title>SUSE Linux Enterprise Server 15</Title>
+    <CPE_22_URI>cpe:/o:suse:linux_enterprise_server:15</CPE_22_URI>
+    <CPE_23_URI>cpe:2.3:o:suse:linux_enterprise_server:15:*:*:*:*:*:*:*</CPE_23_URI>
+    <Reference_Links>
+      <Link>https://www.suse.com/</Link>
+      <Link>https://www.suse.com/security/cve/</Link>
+    </Reference_Links>
+    <Deprecation>
+      <CPE_22_Deprecated>2028-07-31</CPE_22_Deprecated>
+      <CPE_23_Deprecated>2028-07-31</CPE_23_Deprecated>
+    </Deprecation>
+  </CPE_Entry>
+  <CPE_Entry>
+    <Title>Microsoft SQL Server 2019</Title>
+    <CPE_22_URI>cpe:/a:microsoft:sql_server:2019</CPE_22_URI>
+    <CPE_23_URI>cpe:2.3:a:microsoft:sql_server:2019:-:*:*:*:*:*:*</CPE_23_URI>
+    <Reference_Links>
+      <Link>https://www.microsoft.com/en-us/sql-server/sql-server-2019</Link>
+      <Link>https://msrc.microsoft.com/update-guide</Link>
+    </Reference_Links>
+    <Deprecation>
+      <CPE_22_Deprecated>2030-01-08</CPE_22_Deprecated>
+      <CPE_23_Deprecated>2030-01-08</CPE_23_Deprecated>
+    </Deprecation>
+  </CPE_Entry>
+  <CPE_Entry>
+    <Title>Oracle Database 19c</Title>
+    <CPE_22_URI>cpe:/a:oracle:database_server:19.3</CPE_22_URI>
+    <CPE_23_URI>cpe:2.3:a:oracle:database_server:19.3:*:*:*:*:*:*:*</CPE_23_URI>
+    <Reference_Links>
+      <Link>https://www.oracle.com/database/</Link>
+      <Link>https://www.oracle.com/security-alerts/</Link>
+    </Reference_Links>
+    <Deprecation>
+      <CPE_22_Deprecated>2027-04-30</CPE_22_Deprecated>
+      <CPE_23_Deprecated>2027-04-30</CPE_23_Deprecated>
+    </Deprecation>
+  </CPE_Entry>
+  <CPE_Entry>
+    <Title>Redis 6.2</Title>
+    <CPE_22_URI>cpe:/a:redis:redis:6.2.6</CPE_22_URI>
+    <CPE_23_URI>cpe:2.3:a:redis:redis:6.2.6:*:*:*:*:*:*:*</CPE_23_URI>
+    <Reference_Links>
+      <Link>https://redis.io/</Link>
+      <Link>https://nvd.nist.gov/products/redis</Link>
+    </Reference_Links>
+    <Deprecation>
+      <CPE_22_Deprecated>2023-08-31</CPE_22_Deprecated>
+      <CPE_23_Deprecated>2023-08-31</CPE_23_Deprecated>
+    </Deprecation>
+  </CPE_Entry>
+  <CPE_Entry>
+    <Title>Elasticsearch 7.15</Title>
+    <CPE_22_URI>cpe:/a:elastic:elasticsearch:7.15.2</CPE_22_URI>
+    <CPE_23_URI>cpe:2.3:a:elastic:elasticsearch:7.15.2:*:*:*:*:*:*:*</CPE_23_URI>
+    <Reference_Links>
+      <Link>https://www.elastic.co/elasticsearch/</Link>
+      <Link>https://www.elastic.co/community/security</Link>
+    </Reference_Links>
+    <Deprecation>
+      <CPE_22_Deprecated>2023-05-10</CPE_22_Deprecated>
+      <CPE_23_Deprecated>2023-05-10</CPE_23_Deprecated>
+    </Deprecation>
+  </CPE_Entry>
+  <CPE_Entry>
+    <Title>Logstash 7.15</Title>
+    <CPE_22_URI>cpe:/a:elastic:logstash:7.15.2</CPE_22_URI>
+    <CPE_23_URI>cpe:2.3:a:elastic:logstash:7.15.2:*:*:*:*:*:*:*</CPE_23_URI>
+    <Reference_Links>
+      <Link>https://www.elastic.co/logstash/</Link>
+      <Link>https://www.elastic.co/community/security</Link>
+    </Reference_Links>
+    <Deprecation>
+      <CPE_22_Deprecated>2023-05-10</CPE_22_Deprecated>
+      <CPE_23_Deprecated>2023-05-10</CPE_23_Deprecated>
+    </Deprecation>
+  </CPE_Entry>
+  <CPE_Entry>
+    <Title>Kibana 7.15</Title>
+    <CPE_22_URI>cpe:/a:elastic:kibana:7.15.2</CPE_22_URI>
+    <CPE_23_URI>cpe:2.3:a:elastic:kibana:7.15.2:*:*:*:*:*:*:*</CPE_23_URI>
+    <Reference_Links>
+      <Link>https://www.elastic.co/kibana/</Link>
+      <Link>https://www.elastic.co/community/security</Link>
+    </Reference_Links>
+    <Deprecation>
+      <CPE_22_Deprecated>2023-05-10</CPE_22_Deprecated>
+      <CPE_23_Deprecated>2023-05-10</CPE_23_Deprecated>
+    </Deprecation>
+  </CPE_Entry>
+  <CPE_Entry>
+    <Title>Tableau Server 2021.3</Title>
+    <CPE_22_URI>cpe:/a:tableau:tableau_server:2021.3</CPE_22_URI>
+    <CPE_23_URI>cpe:2.3:a:tableau:tableau_server:2021.3:*:*:*:*:*:*:*</CPE_23_URI>
+    <Reference_Links>
+      <Link>https://www.tableau.com/products/server</Link>
+      <Link>https://www.tableau.com/support/releases</Link>
+    </Reference_Links>
+    <Deprecation>
+      <CPE_22_Deprecated>2024-02-01</CPE_22_Deprecated>
+      <CPE_23_Deprecated>2024-02-01</CPE_23_Deprecated>
+    </Deprecation>
+  </CPE_Entry>
+  <CPE_Entry>
+    <Title>Splunk Enterprise 8.2</Title>
+    <CPE_22_URI>cpe:/a:splunk:splunk:8.2.3</CPE_22_URI>
+    <CPE_23_URI>cpe:2.3:a:splunk:splunk:8.2.3:*:*:*:*:*:*:*</CPE_23_URI>
+    <Reference_Links>
+      <Link>https://www.splunk.com/</Link>
+      <Link>https://www.splunk.com/en_us/product-security.html</Link>
+    </Reference_Links>
+    <Deprecation>
+      <CPE_22_Deprecated>2023-10-03</CPE_22_Deprecated>
+      <CPE_23_Deprecated>2023-10-03</CPE_23_Deprecated>
+    </Deprecation>
+  </CPE_Entry>
+  <CPE_Entry>
+    <Title>Ansible 2.9</Title>
+    <CPE_22_URI>cpe:/a:redhat:ansible:2.9</CPE_22_URI>
+    <CPE_23_URI>cpe:2.3:a:redhat:ansible:2.9:*:*:*:*:*:*:*</CPE_23_URI>
+    <Reference_Links>
+      <Link>https://www.ansible.com/</Link>
+      <Link>https://nvd.nist.gov/products/ansible</Link>
+    </Reference_Links>
+    <Deprecation>
+      <CPE_22_Deprecated>2022-05-23</CPE_22_Deprecated>
+      <CPE_23_Deprecated>2022-05-23</CPE_23_Deprecated>
+    </Deprecation>
+  </CPE_Entry>
+  <CPE_Entry>
+    <Title>Terraform 1.0</Title>
+    <CPE_22_URI>cpe:/a:hashicorp:terraform:1.0.11</CPE_22_URI>
+    <CPE_23_URI>cpe:2.3:a:hashicorp:terraform:1.0.11:*:*:*:*:*:*:*</CPE_23_URI>
+    <Reference_Links>
+      <Link>https://www.terraform.io/</Link>
+      <Link>https://nvd.nist.gov/products/terraform</Link>
+    </Reference_Links>
+    <Deprecation>
+      <CPE_22_Deprecated>2023-09-20</CPE_22_Deprecated>
+      <CPE_23_Deprecated>2023-09-20</CPE_23_Deprecated>
+    </Deprecation>
+  </CPE_Entry>
+  <CPE_Entry>
+    <Title>Go 1.17</Title>
+    <CPE_22_URI>cpe:/a:golang:go:1.17</CPE_22_URI>
+    <CPE_23_URI>cpe:2.3:a:golang:go:1.17:-:*:*:*:*:*:*</CPE_23_URI>
+    <Reference_Links>
+      <Link>https://golang.org/</Link>
+      <Link>https://nvd.nist.gov/products/go</Link>
+    </Reference_Links>
+    <Deprecation>
+      <CPE_22_Deprecated>2022-08-01</CPE_22_Deprecated>
+      <CPE_23_Deprecated>2022-08-01</CPE_23_Deprecated>
+    </Deprecation>
+  </CPE_Entry>
+  <CPE_Entry>
+    <Title>Microsoft Exchange Server 2016</Title>
+    <CPE_22_URI>cpe:/a:microsoft:exchange_server:2016</CPE_22_URI>
+    <CPE_23_URI>cpe:2.3:a:microsoft:exchange_server:2016:-:*:*:*:*:*:*</CPE_23_URI>
+    <Reference_Links>
+      <Link>https://www.microsoft.com/en-us/microsoft-365/exchange/exchange-server</Link>
+      <Link>https://msrc.microsoft.com/update-guide</Link>
+    </Reference_Links>
+    <Deprecation>
+      <CPE_22_Deprecated>2025-10-14</CPE_22_Deprecated>
+      <CPE_23_Deprecated>2025-10-14</CPE_23_Deprecated>
+    </Deprecation>
+  </CPE_Entry>
+  <CPE_Entry>
+    <Title>SAP NetWeaver 7.5</Title>
+    <CPE_22_URI>cpe:/a:sap:netweaver:7.50</CPE_22_URI>
+    <CPE_23_URI>cpe:2.3:a:sap:netweaver:7.50:*:*:*:*:*:*:*</CPE_23_URI>
+    <Reference_Links>
+      <Link>https://www.sap.com/products/netweaver-platform.html</Link>
+      <Link>https://support.sap.com/en/my-support/knowledge-base/security-notes-news.html</Link>
+    </Reference_Links>
+    <Deprecation>
+      <CPE_22_Deprecated>2027-12-31</CPE_22_Deprecated>
+      <CPE_23_Deprecated>2027-12-31</CPE_23_Deprecated>
+    </Deprecation>
+  </CPE_Entry>
+  <CPE_Entry>
+    <Title>F5 BIG-IP 16.x</Title>
+    <CPE_22_URI>cpe:/h:f5:big-ip:16.0.0</CPE_22_URI>
+    <CPE_23_URI>cpe:2.3:h:f5:big-ip:16.0.0:*:*:*:*:*:*:*</CPE_23_URI>
+    <Reference_Links>
+      <Link>https://www.f5.com/products/big-ip-services</Link>
+      <Link>https://support.f5.com/csp/article/K5903</Link>
+    </Reference_Links>
+    <Deprecation>
+      <CPE_22_Deprecated>2026-10-30</CPE_22_Deprecated>
+      <CPE_23_Deprecated>2026-10-30</CPE_23_Deprecated>
+    </Deprecation>
+  </CPE_Entry>
+  <CPE_Entry>
+    <Title>Palo Alto Networks PAN-OS 9.1</Title>
+    <CPE_22_URI>cpe:/o:paloaltonetworks:pan-os:9.1.0</CPE_22_URI>
+    <CPE_23_URI>cpe:2.3:o:paloaltonetworks:pan-os:9.1.0:*:*:*:*:*:*:*</CPE_23_URI>
+    <Reference_Links>
+      <Link>https://www.paloaltonetworks.com/products/pan-os</Link>
+      <Link>https://security.paloaltonetworks.com/</Link>
+    </Reference_Links>
+    <Deprecation>
+      <CPE_22_Deprecated>2024-12-31</CPE_22_Deprecated>
+      <CPE_23_Deprecated>2024-12-31</CPE_23_Deprecated>
+    </Deprecation>
+  </CPE_Entry>
+  <CPE_Entry>
+    <Title>Fortinet FortiOS 6.4</Title>
+    <CPE_22_URI>cpe:/o:fortinet:fortios:6.4.0</CPE_22_URI>
+    <CPE_23_URI>cpe:2.3:o:fortinet:fortios:6.4.0:*:*:*:*:*:*:*</CPE_23_URI>
+    <Reference_Links>
+      <Link>https://www.fortinet.com/products/fortigate/fortios</Link>
+      <Link>https://www.fortiguard.com/psirt</Link>
+    </Reference_Links>
+    <Deprecation>
+      <CPE_22_Deprecated>2024-09-29</CPE_22_Deprecated>
+      <CPE_23_Deprecated>2024-09-29</CPE_23_Deprecated>
+    </Deprecation>
+  </CPE_Entry>
+  <CPE_Entry>
+    <Title>Atlassian Jira 8.20</Title>
+    <CPE_22_URI>cpe:/a:atlassian:jira:8.20.0</CPE_22_URI>
+    <CPE_23_URI>cpe:2.3:a:atlassian:jira:8.20.0:*:*:*:*:*:*:*</CPE_23_URI>
+    <Reference_Links>
+      <Link>https://www.atlassian.com/software/jira</Link>
+      <Link>https://www.atlassian.com/trust/security</Link>
+    </Reference_Links>
+    <Deprecation>
+      <CPE_22_Deprecated>2023-11-15</CPE_22_Deprecated>
+      <CPE_23_Deprecated>2023-11-15</CPE_23_Deprecated>
+    </Deprecation>
+  </CPE_Entry>
+  <CPE_Entry>
+    <Title>Atlassian Confluence 7.13</Title>
+    <CPE_22_URI>cpe:/a:atlassian:confluence:7.13.0</CPE_22_URI>
+    <CPE_23_URI>cpe:2.3:a:atlassian:confluence:7.13.0:*:*:*:*:*:*:*</CPE_23_URI>
+    <Reference_Links>
+      <Link>https://www.atlassian.com/software/confluence</Link>
+      <Link>https://www.atlassian.com/trust/security</Link>
+    </Reference_Links>
+    <Deprecation>
+      <CPE_22_Deprecated>2024-02-15</CPE_22_Deprecated>
+      <CPE_23_Deprecated>2024-02-15</CPE_23_Deprecated>
+    </Deprecation>
+  </CPE_Entry>
+  <CPE_Entry>
+    <Title>Slack Desktop 4.20</Title>
+    <CPE_22_URI>cpe:/a:slack:slack:4.20.0</CPE_22_URI>
+    <CPE_23_URI>cpe:2.3:a:slack:slack:4.20.0:*:*:*:*:*:*:*</CPE_23_URI>
+    <Reference_Links>
+      <Link>https://slack.com/</Link>
+      <Link>https://slack.com/trust/security</Link>
+    </Reference_Links>
+    <Deprecation>
+      <CPE_22_Deprecated>2023-08-01</CPE_22_Deprecated>
+      <CPE_23_Deprecated>2023-10-01</CPE_23_Deprecated>
+    </Deprecation>
+  </CPE_Entry>
+  <CPE_Entry>
+    <Title>Zoom Client 5.8</Title>
+    <CPE_22_URI>cpe:/a:zoom:zoom:5.8.0</CPE_22_URI>
+    <CPE_23_URI>cpe:2.3:a:zoom:zoom:5.8.0:*:*:*:*:*:*:*</CPE_23_URI>
+    <Reference_Links>
+      <Link>https://zoom.us/</Link>
+      <Link>https://explore.zoom.us/en/trust/security/</Link>
+    </Reference_Links>
+    <Deprecation>
+      <CPE_22_Deprecated>2023-11-05</CPE_22_Deprecated>
+      <CPE_23_Deprecated>2023-11-05</CPE_23_Deprecated>
+    </Deprecation>
+  </CPE_Entry>
+  <CPE_Entry>
+    <Title>Notepad++ 8.1</Title>
+    <CPE_22_URI>cpe:/a:don_ho:notepad%2b%2b:8.1</CPE_22_URI>
+    <CPE_23_URI>cpe:2.3:a:don_ho:notepad\\+\\+:8.1:*:*:*:*:*:*:*</CPE_23_URI>
+    <Reference_Links>
+      <Link>https://notepad-plus-plus.org/</Link>
+      <Link>https://nvd.nist.gov/products/notepad++</Link>
+    </Reference_Links>
+    <Deprecation>
+      <CPE_22_Deprecated>2023-06-10</CPE_22_Deprecated>
+      <CPE_23_Deprecated>2023-08-10</CPE_23_Deprecated>
+    </Deprecation>
+  </CPE_Entry>
+  <CPE_Entry>
+    <Title>PuTTY 0.76</Title>
+    <CPE_22_URI>cpe:/a:simon_tatham:putty:0.76</CPE_22_URI>
+    <CPE_23_URI>cpe:2.3:a:simon_tatham:putty:0.76:*:*:*:*:*:*:*</CPE_23_URI>
+    <Reference_Links>
+      <Link>https://www.chiark.greenend.org.uk/~sgtatham/putty/</Link>
+      <Link>https://nvd.nist.gov/products/putty</Link>
+    </Reference_Links>
+    <Deprecation>
+      <CPE_22_Deprecated>2024-07-27</CPE_22_Deprecated>
+      <CPE_23_Deprecated>2024-07-27</CPE_23_Deprecated>
+    </Deprecation>
+  </CPE_Entry>
+  <CPE_Entry>
+    <Title>7-Zip 21.07</Title>
+    <CPE_22_URI>cpe:/a:7-zip:7-zip:21.07</CPE_22_URI>
+    <CPE_23_URI>cpe:2.3:a:7-zip:7-zip:21.07:*:*:*:*:*:*:*</CPE_23_URI>
+    <Reference_Links>
+      <Link>https://www.7-zip.org/</Link>
+      <Link>https://nvd.nist.gov/products/7-zip</Link>
+    </Reference_Links>
+    <Deprecation>
+      <CPE_22_Deprecated>2023-12-26</CPE_22_Deprecated>
+      <CPE_23_Deprecated>2024-02-26</CPE_23_Deprecated>
+    </Deprecation>
+  </CPE_Entry>
+  <CPE_Entry>
+    <Title>FileZilla Client 3.56</Title>
+    <CPE_22_URI>cpe:/a:filezilla-project:filezilla_client:3.56.0</CPE_22_URI>
+    <CPE_23_URI>cpe:2.3:a:filezilla-project:filezilla_client:3.56.0:*:*:*:*:*:*:*</CPE_23_URI>
+    <Reference_Links>
+      <Link>https://filezilla-project.org/</Link>
+      <Link>https://nvd.nist.gov/products/filezilla</Link>
+    </Reference_Links>
+    <Deprecation>
+      <CPE_22_Deprecated>2023-10-12</CPE_22_Deprecated>
+      <CPE_23_Deprecated>2023-10-12</CPE_23_Deprecated>
+    </Deprecation>
+  </CPE_Entry>
+  <CPE_Entry>
+    <Title>ISC BIND 9.16</Title>
+    <CPE_22_URI>cpe:/a:isc:bind:9.16.22</CPE_22_URI>
+    <CPE_23_URI>cpe:2.3:a:isc:bind:9.16.22:*:*:*:*:*:*:*</CPE_23_URI>
+    <Reference_Links>
+      <Link>https://www.isc.org/bind/</Link>
+      <Link>https://kb.isc.org/docs/cve-summary</Link>
+    </Reference_Links>
+    <Deprecation>
+      <CPE_22_Deprecated>2023-04-30</CPE_22_Deprecated>
+      <CPE_23_Deprecated>2023-04-30</CPE_23_Deprecated>
+    </Deprecation>
+  </CPE_Entry>
+  <CPE_Entry>
+    <Title>Grafana 8.3</Title>
+    <CPE_22_URI>cpe:/a:grafana:grafana:8.3.0</CPE_22_URI>
+    <CPE_23_URI>cpe:2.3:a:grafana:grafana:8.3.0:*:*:*:*:*:*:*</CPE_23_URI>
+    <Reference_Links>
+      <Link>https://grafana.com/</Link>
+      <Link>https://grafana.com/security/security-advisories/</Link>
+    </Reference_Links>
+    <Deprecation>
+      <CPE_22_Deprecated>2023-12-01</CPE_22_Deprecated>
+      <CPE_23_Deprecated>2023-12-01</CPE_23_Deprecated>
+    </Deprecation>
+  </CPE_Entry>
+  <CPE_Entry>
+    <Title>Prometheus 2.31</Title>
+    <CPE_22_URI>cpe:/a:prometheus:prometheus:2.31.1</CPE_22_URI>
+    <CPE_23_URI>cpe:2.3:a:prometheus:prometheus:2.31.1:*:*:*:*:*:*:*</CPE_23_URI>
+    <Reference_Links>
+      <Link>https://prometheus.io/</Link>
+      <Link>https://nvd.nist.gov/products/prometheus</Link>
+    </Reference_Links>
+    <Deprecation>
+      <CPE_22_Deprecated>2023-11-16</CPE_22_Deprecated>
+      <CPE_23_Deprecated>2023-11-16</CPE_23_Deprecated>
+    </Deprecation>
+  </CPE_Entry>
+  <CPE_Entry>
+    <Title>RabbitMQ 3.9</Title>
+    <CPE_22_URI>cpe:/a:vmware:rabbitmq:3.9.11</CPE_22_URI>
+    <CPE_23_URI>cpe:2.3:a:vmware:rabbitmq:3.9.11:*:*:*:*:*:*:*</CPE_23_URI>
+    <Reference_Links>
+      <Link>https://www.rabbitmq.com/</Link>
+      <Link>https://tanzu.vmware.com/security</Link>
+    </Reference_Links>
+    <Deprecation>
+      <CPE_22_Deprecated>2023-03-31</CPE_22_Deprecated>
+      <CPE_23_Deprecated>2023-03-31</CPE_23_Deprecated>
+    </Deprecation>
+  </CPE_Entry>
+  <CPE_Entry>
+    <Title>Apache Kafka 2.8</Title>
+    <CPE_22_URI>cpe:/a:apache:kafka:2.8.1</CPE_22_URI>
+    <CPE_23_URI>cpe:2.3:a:apache:kafka:2.8.1:*:*:*:*:*:*:*</CPE_23_URI>
+    <Reference_Links>
+      <Link>https://kafka.apache.org/</Link>
+      <Link>https://nvd.nist.gov/products/kafka</Link>
+    </Reference_Links>
+    <Deprecation>
+      <CPE_22_Deprecated>2023-08-24</CPE_22_Deprecated>
+      <CPE_23_Deprecated>2023-08-24</CPE_23_Deprecated>
+    </Deprecation>
+  </CPE_Entry>
+  <CPE_Entry>
+    <Title>Subversion 1.14</Title>
+    <CPE_22_URI>cpe:/a:apache:subversion:1.14.1</CPE_22_URI>
+    <CPE_23_URI>cpe:2.3:a:apache:subversion:1.14.1:*:*:*:*:*:*:*</CPE_23_URI>
+    <Reference_Links>
+      <Link>https://subversion.apache.org/</Link>
+      <Link>https://nvd.nist.gov/products/subversion</Link>
+    </Reference_Links>
+    <Deprecation>
+      <CPE_22_Deprecated>2025-05-30</CPE_22_Deprecated>
+      <CPE_23_Deprecated>2025-05-30</CPE_23_Deprecated>
+    </Deprecation>
+  </CPE_Entry>
+  <CPE_Entry>
+    <Title>Perl 5.34</Title>
+    <CPE_22_URI>cpe:/a:perl:perl:5.34.0</CPE_22_URI>
+    <CPE_23_URI>cpe:2.3:a:perl:perl:5.34.0:*:*:*:*:*:*:*</CPE_23_URI>
+    <Reference_Links>
+      <Link>https://www.perl.org/</Link>
+      <Link>https://nvd.nist.gov/products/perl</Link>
+    </Reference_Links>
+    <Deprecation>
+      <CPE_22_Deprecated>2024-05-20</CPE_22_Deprecated>
+      <CPE_23_Deprecated>2024-05-20</CPE_23_Deprecated>
+    </Deprecation>
+  </CPE_Entry>
+  <CPE_Entry>
+    <Title>GnuPG 2.2</Title>
+    <CPE_22_URI>cpe:/a:gnupg:gnupg:2.2.32</CPE_22_URI>
+    <CPE_23_URI>cpe:2.3:a:gnupg:gnupg:2.2.32:*:*:*:*:*:*:*</CPE_23_URI>
+    <Reference_Links>
+      <Link>https://gnupg.org/</Link>
+      <Link>https://nvd.nist.gov/products/gnupg</Link>
+    </Reference_Links>
+    <Deprecation>
+      <CPE_22_Deprecated>2024-12-31</CPE_22_Deprecated>
+      <CPE_23_Deprecated>2024-12-31</CPE_23_Deprecated>
+    </Deprecation>
+  </CPE_Entry>
+  <CPE_Entry>
+    <Title>TeamViewer 15</Title>
+    <CPE_22_URI>cpe:/a:teamviewer:teamviewer:15.23.9</CPE_22_URI>
+    <CPE_23_URI>cpe:2.3:a:teamviewer:teamviewer:15.23.9:*:*:*:*:*:*:*</CPE_23_URI>
+    <Reference_Links>
+      <Link>https://www.teamviewer.com/</Link>
+      <Link>https://community.teamviewer.com/English/kb/security-bulletins</Link>
+    </Reference_Links>
+    <Deprecation>
+      <CPE_22_Deprecated>2024-01-15</CPE_22_Deprecated>
+      <CPE_23_Deprecated>2024-01-15</CPE_23_Deprecated>
+    </Deprecation>
+  </CPE_Entry>
+  <CPE_Entry>
+    <Title>JetBrains IntelliJ IDEA 2021.3</Title>
+    <CPE_22_URI>cpe:/a:jetbrains:intellij_idea:2021.3</CPE_22_URI>
+    <CPE_23_URI>cpe:2.3:a:jetbrains:intellij_idea:2021.3:*:*:*:*:*:*:*</CPE_23_URI>
+    <Reference_Links>
+      <Link>https://www.jetbrains.com/idea/</Link>
+      <Link>https://www.jetbrains.com/privacy-security/issues-fixed/</Link>
+    </Reference_Links>
+    <Deprecation>
+      <CPE_22_Deprecated>2024-03-01</CPE_22_Deprecated>
+      <CPE_23_Deprecated>2024-03-01</CPE_23_Deprecated>
+    </Deprecation>
+  </CPE_Entry>
+  <CPE_Entry>
+    <Title>Eclipse IDE 2021-12</Title>
+    <CPE_22_URI>cpe:/a:eclipse:eclipse_ide:4.22</CPE_22_URI>
+    <CPE_23_URI>cpe:2.3:a:eclipse:eclipse_ide:4.22:*:*:*:*:*:*:*</CPE_23_URI>
+    <Reference_Links>
+      <Link>https://www.eclipse.org/</Link>
+      <Link>https://www.eclipse.org/security/</Link>
+    </Reference_Links>
+    <Deprecation>
+      <CPE_22_Deprecated>2023-12-08</CPE_22_Deprecated>
+      <CPE_23_Deprecated>2023-12-08</CPE_23_Deprecated>
+    </Deprecation>
+  </CPE_Entry>
+  <CPE_Entry>
+    <Title>Microsoft Visual Studio Code 1.63</Title>
+    <CPE_22_URI>cpe:/a:microsoft:visual_studio_code:1.63</CPE_22_URI>
+    <CPE_23_URI>cpe:2.3:a:microsoft:visual_studio_code:1.63:*:*:*:*:*:*:*</CPE_23_URI>
+    <Reference_Links>
+      <Link>https://code.visualstudio.com/</Link>
+      <Link>https://msrc.microsoft.com/update-guide</Link>
+    </Reference_Links>
+    <Deprecation>
+      <CPE_22_Deprecated>2023-01-05</CPE_22_Deprecated>
+      <CPE_23_Deprecated>2023-01-05</CPE_23_Deprecated>
+    </Deprecation>
+  </CPE_Entry>
+  <CPE_Entry>
+    <Title>Google Android 12</Title>
+    <CPE_22_URI>cpe:/o:google:android:12.0</CPE_22_URI>
+    <CPE_23_URI>cpe:2.3:o:google:android:12.0:*:*:*:*:*:*:*</CPE_23_URI>
+    <Reference_Links>
+      <Link>https://www.android.com/</Link>
+      <Link>https://source.android.com/security/bulletin</Link>
+    </Reference_Links>
+    <Deprecation>
+      <CPE_22_Deprecated>2024-10-04</CPE_22_Deprecated>
+      <CPE_23_Deprecated>2024-10-04</CPE_23_Deprecated>
+    </Deprecation>
+  </CPE_Entry>
+  <CPE_Entry>
+    <Title>MongoDB 4.4</Title>
+    <CPE_22_URI>cpe:/a:mongodb:mongodb:4.4</CPE_22_URI>
+    <CPE_23_URI>cpe:2.3:a:mongodb:mongodb:4.4:*:*:*:*:*:*:*</CPE_23_URI>
+    <Reference_Links>
+      <Link>https://www.mongodb.com/</Link>
+      <Link>https://nvd.nist.gov/products/mongodb</Link>
+    </Reference_Links>
+    <Deprecation>
+      <CPE_22_Deprecated>2024-02-29</CPE_22_Deprecated>
+      <CPE_23_Deprecated>2024-02-29</CPE_23_Deprecated>
+    </Deprecation>
+  </CPE_Entry>
+  <CPE_Entry>
+    <Title>LibreOffice 7.2</Title>
+    <CPE_22_URI>cpe:/a:libreoffice:libreoffice:7.2</CPE_22_URI>
+    <CPE_23_URI>cpe:2.3:a:libreoffice:libreoffice:7.2:*:*:*:*:*:*:*</CPE_23_URI>
+    <Reference_Links>
+      <Link>https://www.libreoffice.org/</Link>
+      <Link>https://www.libreoffice.org/about-us/security/</Link>
+    </Reference_Links>
+    <Deprecation>
+      <CPE_22_Deprecated>2022-06-02</CPE_22_Deprecated>
+      <CPE_23_Deprecated>2022-06-02</CPE_23_Deprecated>
+    </Deprecation>
+  </CPE_Entry>
+  <CPE_Entry>
+    <Title>Samba 4.15</Title>
+    <CPE_22_URI>cpe:/a:samba:samba:4.15.2</CPE_22_URI>
+    <CPE_23_URI>cpe:2.3:a:samba:samba:4.15.2:*:*:*:*:*:*:*</CPE_23_URI>
+    <Reference_Links>
+      <Link>https://www.samba.org/</Link>
+      <Link>https://www.samba.org/samba/history/security.html</Link>
+    </Reference_Links>
+    <Deprecation>
+      <CPE_22_Deprecated>2023-03-07</CPE_22_Deprecated>
+      <CPE_23_Deprecated>2023-03-07</CPE_23_Deprecated>
+    </Deprecation>
+  </CPE_Entry>
+  <CPE_Entry>
+    <Title>OpenSSL 1.1.1</Title>
+    <CPE_22_URI>cpe:/a:openssl:openssl:1.1.1l</CPE_22_URI>
+    <CPE_23_URI>cpe:2.3:a:openssl:openssl:1.1.1l:*:*:*:*:*:*:*</CPE_23_URI>
+    <Reference_Links>
+      <Link>https://www.openssl.org/</Link>
+      <Link>https://www.openssl.org/news/vulnerabilities.html</Link>
+    </Reference_Links>
+    <Deprecation>
+      <CPE_22_Deprecated>2023-09-11</CPE_22_Deprecated>
+      <CPE_23_Deprecated>2023-09-11</CPE_23_Deprecated>
+    </Deprecation>
+  </CPE_Entry>
+  <CPE_Entry>
+    <Title>Nmap 7.92</Title>
+    <CPE_22_URI>cpe:/a:nmap:nmap:7.92</CPE_22_URI>
+    <CPE_23_URI>cpe:2.3:a:nmap:nmap:7.92:*:*:*:*:*:*:*</CPE_23_URI>
+    <Reference_Links>
+      <Link>https://nmap.org/</Link>
+      <Link>https://nvd.nist.gov/products/nmap</Link>
+    </Reference_Links>
+    <Deprecation>
+      <CPE_22_Deprecated>2024-09-01</CPE_22_Deprecated>
+      <CPE_23_Deprecated>2024-11-01</CPE_23_Deprecated>
+    </Deprecation>
+  </CPE_Entry>
+  <CPE_Entry>
+    <Title>VirtualBox 6.1</Title>
+    <CPE_22_URI>cpe:/a:oracle:virtualbox:6.1.30</CPE_22_URI>
+    <CPE_23_URI>cpe:2.3:a:oracle:virtualbox:6.1.30:*:*:*:*:*:*:*</CPE_23_URI>
+    <Reference_Links>
+      <Link>https://www.virtualbox.org/</Link>
+      <Link>https://www.oracle.com/security-alerts/</Link>
+    </Reference_Links>
+    <Deprecation>
+      <CPE_22_Deprecated>2024-12-31</CPE_22_Deprecated>
+      <CPE_23_Deprecated>2024-12-31</CPE_23_Deprecated>
+    </Deprecation>
+  </CPE_Entry>
+  <CPE_Entry>
+    <Title>Ruby 2.7</Title>
+    <CPE_22_URI>cpe:/a:ruby-lang:ruby:2.7.5</CPE_22_URI>
+    <CPE_23_URI>cpe:2.3:a:ruby-lang:ruby:2.7.5:*:*:*:*:*:*:*</CPE_23_URI>
+    <Reference_Links>
+      <Link>https://www.ruby-lang.org/</Link>
+      <Link>https://www.ruby-lang.org/en/security/</Link>
+    </Reference_Links>
+    <Deprecation>
+      <CPE_22_Deprecated>2023-03-31</CPE_22_Deprecated>
+      <CPE_23_Deprecated>2023-03-31</CPE_23_Deprecated>
+    </Deprecation>
+  </CPE_Entry>
+  <CPE_Entry>
+    <Title>Gnu Bash 4.4</Title>
+    <CPE_22_URI>cpe:/a:gnu:bash:4.4</CPE_22_URI>
+    <CPE_23_URI>cpe:2.3:a:gnu:bash:4.4:*:*:*:*:*:*:*</CPE_23_URI>
+    <Reference_Links>
+      <Link>https://www.gnu.org/software/bash/</Link>
+      <Link>https://nvd.nist.gov/products/bash</Link>
+    </Reference_Links>
+    <Deprecation>
+      <CPE_22_Deprecated>2024-01-01</CPE_22_Deprecated>
+      <CPE_23_Deprecated>2024-03-01</CPE_23_Deprecated>
+    </Deprecation>
+  </CPE_Entry>
+  <CPE_Entry>
+    <Title>Xen 4.15</Title>
+    <CPE_22_URI>cpe:/o:xen:xen:4.15.1</CPE_22_URI>
+    <CPE_23_URI>cpe:2.3:o:xen:xen:4.15.1:*:*:*:*:*:*:*</CPE_23_URI>
+    <Reference_Links>
+      <Link>https://xenproject.org/</Link>
+      <Link>https://xenbits.xen.org/xsa/</Link>
+    </Reference_Links>
+    <Deprecation>
+      <CPE_22_Deprecated>2023-06-22</CPE_22_Deprecated>
+      <CPE_23_Deprecated>2023-06-22</CPE_23_Deprecated>
     </Deprecation>
   </CPE_Entry>
 </CPE_Dictionary>
