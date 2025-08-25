@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CPE_Dictionary>
+  <CPE_Entry>
+    <Title>Microsoft Windows 10</Title>
+    <CPE_22_URI>cpe:/o:microsoft:windows_10</CPE_22_URI>
+    <CPE_23_URI>cpe:2.3:o:microsoft:windows_10:-:*:*:*:*:*:*:*</CPE_23_URI>
+    <Reference_Links>
+      <Link>https://docs.microsoft.com/en-us/windows/</Link>
+      <Link>https://support.microsoft.com/windows</Link>
+    </Reference_Links>
+    <Deprecation>
+      <CPE_22_Deprecated>2023-01-01</CPE_22_Deprecated>
+      <CPE_23_Deprecated>2024-06-30</CPE_23_Deprecated>
+    </Deprecation>
+  </CPE_Entry>
+
+  <CPE_Entry>
+    <Title>Apache Tomcat 9</Title>
+    <CPE_22_URI>cpe:/a:apache:tomcat:9.0.0</CPE_22_URI>
+    <CPE_23_URI>cpe:2.3:a:apache:tomcat:9.0.0:*:*:*:*:*:*:*</CPE_23_URI>
+    <Reference_Links>
+      <Link>https://tomcat.apache.org/</Link>
+      <Link>https://nvd.nist.gov/products/tomcat</Link>
+    </Reference_Links>
+    <Deprecation>
+      <CPE_22_Deprecated>2022-12-15</CPE_22_Deprecated>
+      <CPE_23_Deprecated>2023-05-10</CPE_23_Deprecated>
+    </Deprecation>
+  </CPE_Entry>
+
+  <CPE_Entry>
+    <Title>Ubuntu Linux 20.04</Title>
+    <CPE_22_URI>cpe:/o:canonical:ubuntu_linux:20.04</CPE_22_URI>
+    <CPE_23_URI>cpe:2.3:o:canonical:ubuntu_linux:20.04:*:*:*:*:*:*:*</CPE_23_URI>
+    <Reference_Links>
+      <Link>https://ubuntu.com/</Link>
+      <Link>https://security.ubuntu.com/</Link>
+    </Reference_Links>
+    <Deprecation>
+      <CPE_22_Deprecated>2025-04-01</CPE_22_Deprecated>
+      <CPE_23_Deprecated>2025-04-01</CPE_23_Deprecated>
+    </Deprecation>
+  </CPE_Entry>
+
+  <CPE_Entry>
+    <Title>Oracle Java SE 8</Title>
+    <CPE_22_URI>cpe:/a:oracle:java:8</CPE_22_URI>
+    <CPE_23_URI>cpe:2.3:a:oracle:java:8:*:*:*:*:*:*:*</CPE_23_URI>
+    <Reference_Links>
+      <Link>https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html</Link>
+      <Link>https://nvd.nist.gov/products/java</Link>
+    </Reference_Links>
+    <Deprecation>
+      <CPE_22_Deprecated>2023-09-30</CPE_22_Deprecated>
+      <CPE_23_Deprecated>2024-01-15</CPE_23_Deprecated>
+    </Deprecation>
+  </CPE_Entry>
+
+  <CPE_Entry>
+    <Title>Mozilla Firefox 102 ESR</Title>
+    <CPE_22_URI>cpe:/a:mozilla:firefox:102.0</CPE_22_URI>
+    <CPE_23_URI>cpe:2.3:a:mozilla:firefox:102.0:*:*:*:*:*:*:*</CPE_23_URI>
+    <Reference_Links>
+      <Link>https://www.mozilla.org/en-US/firefox/enterprise/</Link>
+      <Link>https://support.mozilla.org/</Link>
+    </Reference_Links>
+    <Deprecation>
+      <CPE_22_Deprecated>2024-07-01</CPE_22_Deprecated>
+      <CPE_23_Deprecated>2024-07-01</CPE_23_Deprecated>
+    </Deprecation>
+  </CPE_Entry>
+</CPE_Dictionary>
