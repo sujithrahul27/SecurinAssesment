@@ -27,11 +27,10 @@ public class ApiController {
 	@GetMapping("/search")		//serach result the only reason ro migrate to mysql 
 	public List<CpeDictnary> getSearched(
 			@RequestParam(required = false) String cpe_title,
-			@RequestParam(required = false) String cpe_22_uri,
 			@RequestParam(required = false) String cpe_23_uri,
 			@RequestParam(required = false) String deprecation_date
 			){
-		return cpeDbService.searchCpes(cpe_title,cpe_22_uri,cpe_23_uri,deprecation_date);
+		return cpeDbService.searchCpes(cpe_title,cpe_23_uri, deprecation_date);
 	}
 	
 }

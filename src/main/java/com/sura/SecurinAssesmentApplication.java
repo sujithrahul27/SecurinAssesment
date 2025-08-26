@@ -12,8 +12,8 @@ public class SecurinAssesmentApplication {
 	public static void main(String[] args) {
 		  ConfigurableApplicationContext context = SpringApplication.run(SecurinAssesmentApplication.class, args);
 
-	        //XmlParserService parser = context.getBean(XmlParserService.class);
-	       //parser.parseXml();
+	      // XmlParserService parser = context.getBean(XmlParserService.class);
+	     //  parser.parseXml();
 
 	}
 

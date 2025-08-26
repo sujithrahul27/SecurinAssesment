@@ -25,9 +25,9 @@ public class CpeDbService {
 	public Page<CpeDictnary> getPaginatedCpes(int page, int limit) {
 		return repo.findAll(PageRequest.of(page, limit).withSort(Sort.by("id"))); //GETTING PAGES FROM DB
 	}
-	public List<CpeDictnary> searchCpes(String cpe_title, String cpe_22_uri, String cpe_23_uri,
+	public List<CpeDictnary> searchCpes(String cpe_title,  String cpe_23_uri,
 			String deprecation_date) {
 		// TODO Auto-generated method stub
-		return repo.searchByFields(cpe_title,cpe_22_uri,cpe_23_uri,deprecation_date); //GETTING SEARCH RESULT FROM DB
+		return repo.searchByFields(cpe_title,cpe_23_uri,deprecation_date); //GETTING SEARCH RESULT FROM DB
 	}
 }
