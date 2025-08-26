@@ -8,13 +8,14 @@ This project is a backend RESTful API developed as a technical assignment for th
 
 This assignment presented several real-world challenges that required strategic decisions to deliver a robust and functional backend solution.
 
-* **Data Source Handling:** Upon initial analysis, the provided data source was found to be a large, unstructured text file rather than a well-formed XML document. To effectively demonstrate the core requirements of the assignment—building the API and database layers—I made the decision to create a sample, well-structured XML file (`sample.xml`) that mirrors the required data fields. This allowed me to build and thoroughly test the parsing, persistence, and API logic as specified.
+
+* **Handling a Large Data Source:** The provided `official-cpe-dictionary_v2.3.xml.gz` file is a very large (over 100MB uncompressed) data source. To parse this data efficiently without consuming excessive memory, I chose to implement a **StAX (Streaming API for XML) parser**. Unlike a DOM parser which loads the entire file into memory, a StAX parser reads the XML as a stream of events, which is the industry-standard approach for handling large XML documents.
 
 * **Database Evolution:** I initially prototyped the persistence layer with MongoDB. However, to better implement the complex, multi-parameter search functionality required by the `/api/cpes/search` endpoint, I migrated the database to **MySQL**. This allowed me to write custom, efficient JPQL queries in the repository layer to handle the specific filtering logic.
 
 * **Focus on Backend Excellence:** As my specialization is in backend development, I focused all my efforts on creating a high-quality, fully functional, and well-documented API. To facilitate testing and interaction, I have integrated Swagger UI.
 
-* **On Using AI Tools:** Throughout this learning-intensive project, I utilized AI-powered tools as a research and learning aid to understand new concepts and syntax, ensuring that all final logic and implementation were my own.
+* **On Using AI Tools:** Throughout this learning-intensive project, I utilized AI-powered tools as a research and learning aid to understand new concepts, such as the intricacies of StAX parsing, ensuring that all final logic and implementation were my own.
 
 ---
 
