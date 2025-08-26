@@ -9,7 +9,7 @@ This project is a backend RESTful API developed as a technical assignment for th
 This assignment presented several real-world challenges that required strategic decisions to deliver a robust and functional backend solution.
 
 
-* **Handling a Large Data Source:** The provided `official-cpe-dictionary_v2.3.xml.gz` file is a very large (over 100MB uncompressed) data source. To parse this data efficiently without consuming excessive memory, I chose to implement a **StAX (Streaming API for XML) parser**. Unlike a DOM parser which loads the entire file into memory, a StAX parser reads the XML as a stream of events, which is the industry-standard approach for handling large XML documents.
+* **Handling a Large Data Source:** The provided `official-cpe-dictionary_v2.3.xml.gz` file is a very large (over 700MB uncompressed) data source. To parse this data efficiently without consuming excessive memory, I chose to implement a **StAX (Streaming API for XML) parser**. Unlike a DOM parser which loads the entire file into memory, a StAX parser reads the XML as a stream of events, which is the industry-standard approach for handling large XML documents.
 
 * **Database Evolution:** I initially prototyped the persistence layer with MongoDB. However, to better implement the complex, multi-parameter search functionality required by the `/api/cpes/search` endpoint, I migrated the database to **MySQL**. This allowed me to write custom, efficient JPQL queries in the repository layer to handle the specific filtering logic.
 
